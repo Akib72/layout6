@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+.header{
+    background-color: aqua;text-align: center;height: 300px;
+}
+.header h1{
+    color: black;
+}
+.nav{
+    background-color: brown;text-align: center;height: 100px;
+}
+.middle{
+    overflow: hidden;
+}
+.aside{
+    background-color: cornflowerblue;text-align: center;height: 300px;width: 30%;float: left;
+}
+.main{
+    background-color: darkcyan;text-align: center;height: 300px;width: 70%;float: right;
+}
+.main1{
+    padding-top: 100px;
+}
+.footer{
+    background-color: darkmagenta;text-align: center;height: 200px;
+}
